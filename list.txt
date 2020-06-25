@@ -1,0 +1,4 @@
+mkdir -- create a new folder
+ls -- list the contents of the directory
+wget https://example.com/file.zip
+rm delete a file
